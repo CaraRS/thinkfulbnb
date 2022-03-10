@@ -128,7 +128,7 @@ form label {
 form select,
 form input {
   margin-bottom: 20px;
-  width: 8.5em; 
+  width: 9em; 
 }
 
 form button {
@@ -194,7 +194,7 @@ footer p {
 
 }
 
-@media all and (max-width: 280px) {
+@media all and (max-width: 285px) {
   .form-row {
     flex-direction: column;
   }
